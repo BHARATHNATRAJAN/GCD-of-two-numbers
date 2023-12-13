@@ -28,8 +28,10 @@ def gcd():
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
-![output](/output.png)
+![gcd](https://github.com/BHARATHNATRAJAN/GCD-of-two-numbers/assets/147473529/bbaa4e2a-5ee7-4d97-a8e1-1bdb2e9a0df9)
+
+![output](https://github.com/BHARATHNATRAJAN/GCD-of-two-numbers/assets/147473529/9526756d-de97-48ac-a099-26b0e7809082)
+
 
 
 ## Result:
